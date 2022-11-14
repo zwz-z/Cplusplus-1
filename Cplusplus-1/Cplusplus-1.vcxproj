@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="First.cpp" />
     <ClCompile Include="FIVE-I.cpp" />
+    <ClCompile Include="FIVE-II.cpp" />
     <ClCompile Include="Four-II.cpp" />
     <ClCompile Include="Four-I.cpp" />
     <ClCompile Include="Four-III.cpp" />

@@ -1,2 +1,3 @@
-﻿  FIVE-I.cpp
+﻿  FIVE-II.cpp
+D:\code\Cplusplus-1\Cplusplus-1\FIVE-II.cpp(53,16): warning C4244: “初始化”: 从“float”转换到“clock_t”，可能丢失数据
   Cplusplus-1.vcxproj -> D:\code\Cplusplus-1\x64\Debug\Cplusplus-1.exe

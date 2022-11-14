@@ -259,20 +259,53 @@
 //	return 0;
 //}
 
-#include<iostream>
-int main()
-{
-	using namespace std;
-	int scores[10] = { 20, 20, 20, 20, 20, 19, 20, 18, 20, 20 };
+//#include<iostream>
+//int main()
+//{
+//	using namespace std;
+//	int scores[10] = { 20, 20, 20, 20, 20, 19, 20, 18, 20, 20 };
+//
+//	int i;
+//	cout << "正确的操作符使用：\n";
+//	for (i = 0; scores[i] == 20; i++)
+//		cout << "scores " << i << "是20\n";
+//
+//	cout << "\n错误的操作符使用：\n";
+//	for (i = 0; scores[i] = 20; i++)
+//		cout << "scores " << i << "是20\n";
+//
+//	return 0;
+//}
 
-	int i;
-	cout << "正确的操作符使用：\n";
-	for (i = 0; scores[i] == 20; i++)
-		cout << "scores " << i << "是20\n";
+//#include<iostream>
+//#include<cstring>			//包含函数strcmp()
+//int main()
+//{
+//	using namespace std;
+//	char word[5] = "?ate";
+//
+//	for (char ch = 'a';  strcmp(word, "mate"); ch++)
+//	{
+//		cout << word << endl;
+//		word[0] = ch;
+//	}
+//	cout << "循环结束，word = " << word << endl;
+//
+//	return 0;
+//}
 
-	cout << "\n错误的操作符使用：\n";
-	for (i = 0; scores[i] = 20; i++)
-		cout << "scores " << i << "是20\n";
-
-	return 0;
-}
+//#include<iostream>
+//#include<string>
+//int main()
+//{
+//	using namespace std;
+//	string word = "?ate";
+//	for (char ch = 'a'; word != "mate"; ch++)
+//	{
+//		cout << word << endl;
+//		word[0] = ch;
+//	}
+//	cout << "循环结束，word = " << word << endl;
+//
+//	return 0;
+//}
